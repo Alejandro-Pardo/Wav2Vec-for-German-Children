@@ -1,0 +1,20 @@
+﻿ID;NAME;SP1_ID;SP2_ID;SP1;SP2;SP1_N;SP2_N
+0;en111_1;0;1;*GI1;*GI2;Lisa ;Hanna
+1;en111_2;2;3;*GI1;*GI2;Lisa ;Wiebke
+2;en111_3;4;5;*BO1;*BO2;Maximilian;Markus
+3;en111_4;6;7;*BO1;*BO2;Sven;Lyn
+4;en111_5;8;9;*BO1;*GI1;Felix;Cecilia
+5;en112_1;10;11;*GI1;*GI2;Adriane;Katalin
+6;en112_2;12;13;*BO1;*BO2;Phan_Duc;Danny
+7;en112_3;14;15;*GI1;*GI2;Mandy;Laura
+8;en112_4;16;17;*BO1;*BO2;Tobias;Dennis
+9;en112_5;18;19;*BO1;*BO2;Roy;Sascha
+10;en211_1;20;21;*BO1;*GI1;Eric;Anne
+11;en211_2;22;23;*BO1;*GI1;Marco;Linda
+12;en211_3;24;25;*GI1;*GI2;Sarah;Anne
+13;en211_4;26;27;*BO1;*BO2;Michael;Carsten
+14;en211_5;28;29;*BO1;*BO2;Jonas;Marvin
+15;en212_1;30;31;*BO1;*BO2;Phillip;Michael
+16;en212_2;32;33;*BO1;*GI1;Paul;Elisabeth
+17;en212_3;34;35;*BO1;*GI1;Sebastian;Sandra
+18;en212_4;36;37;*GI1;*GI2;Lisa;Sophia
