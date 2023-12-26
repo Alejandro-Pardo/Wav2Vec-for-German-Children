@@ -3,7 +3,9 @@ python version used = 3.11.7
 packages: soundfile, pandas, numpy, matplotlib, torch, cuda, transformers, datasets, evaluate, jiwer
 
 ##FILES NEEDED##
-Our dataset audio files were not included as they were too heavy to do so. However, the fine_tuning.ipynb should work withouth those.
+Our dataset audio files were not included as they were too heavy to do so. However, the fine_tuning.ipynb should be understandable withouth those.
+
+Dresden Corpus: https://sla.talkbank.org/TBB/slabank/English/Dresden
 
 #######REMOVING SOME ERRORS IN EXPRESSION######
 Please do not run the dara_processing.py file since the data used for the model would be overwritten. Our preprocessing file is not perfect and therefore some modifications need to be done after running the python file by hand.
