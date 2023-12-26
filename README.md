@@ -1,2 +1,3 @@
 # Wav2Vec-for-German-Children
 Repository for the project "Fine-tuning wav2vec for German children speaking English" using the Dresden Corpus (https://sla.talkbank.org/TBB/slabank/English/Dresden).
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuggingface.co%2Fblog%2Ffine-tune-wav2vec2-english&psig=AOvVaw2glCeNIHnMVH1NvJN5Iukz&ust=1703678658828000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCumNuHrYMDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuggingface.co%2Fblog%2Ffine-tune-wav2vec2-english&psig=AOvVaw2glCeNIHnMVH1NvJN5Iukz&ust=1703678658828000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCumNuHrYMDFQAAAAAdAAAAABAD)
